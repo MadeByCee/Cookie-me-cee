@@ -1,2 +1,2 @@
 # Cookie-me-cee
-Difference flavors of the best cookies
+Landing page for Cookie Me Cee menu & ordering
